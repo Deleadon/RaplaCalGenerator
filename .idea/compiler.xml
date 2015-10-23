@@ -24,6 +24,13 @@
         <processorPath useClasspath="true" />
         <module name="raplaCalGeneratorInt" />
       </profile>
+      <profile default="false" name="Annotation profile for raplaCalGenerator" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="raplaCalGenerator" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="raplaCalGenerator" target="1.8" />

@@ -1,9 +1,12 @@
 package raplaCalGen;
 
+import javafx.scene.paint.Color;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.EventListener;
 import javax.swing.*;
 
 /**
@@ -17,6 +20,7 @@ public class Interfacer {
 
         public void initUI() {
         frame.setTitle("Rapla Calendar Generator 1.0");
+
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         BoxLayout boxLayout = new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS);
         frame.setLayout(boxLayout);
@@ -59,6 +63,7 @@ public class Interfacer {
         filePanel.add(filenameField);
         
         JButton submitBtn = new JButton("Submit");
+
         submitBtn.addActionListener(new ActionListener() {
 
             @Override
