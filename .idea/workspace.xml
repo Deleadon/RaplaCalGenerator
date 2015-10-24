@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8a4b9e4-c8c9-48c6-8dc9-4cfe757871a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/raplaCalGen/Interfacer.java" afterPath="$PROJECT_DIR$/src/main/java/raplaCalGen/Interfacer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/raplaCalGen/MyHTTPClient.java" afterPath="$PROJECT_DIR$/src/main/java/raplaCalGen/MyHTTPClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/raplaCalGen/main.java" afterPath="$PROJECT_DIR$/src/main/java/raplaCalGen/main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="raplaCalGeneratorInt.iws" />
@@ -54,8 +50,8 @@
       <file leaf-file-name="MyHTTPClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/raplaCalGen/MyHTTPClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33387887">
-              <caret line="29" column="176" selection-start-line="29" selection-start-column="176" selection-end-line="29" selection-end-column="176" />
+            <state vertical-scroll-proportion="0.38952535">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -633,15 +629,15 @@
       <option name="number" value="Default" />
       <updated>1445617114850</updated>
       <workItem from="1445617121142" duration="1522000" />
-      <workItem from="1445621759923" duration="1993000" />
+      <workItem from="1445621759923" duration="2619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3515000" />
+    <option name="totallyTimeSpent" value="4141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -669,6 +665,14 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329849" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -784,8 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/raplaCalGen/MyHTTPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33387887">
-          <caret line="29" column="176" selection-start-line="29" selection-start-column="176" selection-end-line="29" selection-end-column="176" />
+        <state vertical-scroll-proportion="0.38952535">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding />
         </state>
       </provider>

@@ -28,8 +28,8 @@ public class MyHTTPClient {
             weekCount++;
             StringBuilder raw = getCalendarData("https://rapla.dhbw-stuttgart.de/rapla?key="+key+"&prev=<<&day="+activeDate[0]+"&month="+activeDate[1]+"&year="+activeDate[2], false);
             //https://rapla.dhbw-stuttgart.de/rapla?key=txB1FOi5xd1wUJBWuX8lJr58RSjvcBHHm4d21IRwE-C07jmu5c6CVIZ1HU6jFYIWhmWyEHbLgbNZMJRmmAn2OQ&prev=<<&day=08&month=10&year=2015
+
             returnStrings.add(raw);
-            //iterator = !(endDate[0]<=activeDate[0]&& endDate[1]<=activeDate[1]&&endDate[2]<=activeDate[2]);
             iterator = endReached(activeDate, endDate);
             System.out.println("Week: "+ weekCount);
             activeDate = nextDate(activeDate);
